@@ -1,0 +1,69 @@
+Site das questões: https://sites.google.com/site/desenvolvimentowebi20121/material-de-apoio/listas-de-exercicios
+Resolução da lista 01:
+Questão 01:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 01</title>
+    <style>
+        h1 {
+            text-align: center;
+            font-size: 50px;
+        }
+        h2 {
+            font-size: 30px;
+        }
+        h3{
+            font-size: 24px;
+            font-weight: 100;
+            /*A propriedade font-weight é utilizada para aplicar ou 
+            remover negrito de um elemento de texto. O valor de font-weight pode 
+            ser numérico ou uma palavra. Ambos correspondem a quão espessa será a fonte. 
+            Os valores numéricos são 100, 200, 300, 400, 500, 600, 700, 800 e 900.*/
+        }
+    </style>
+</head>
+<body>
+    <h1>Café Starbuzz</h1>
+    <h2>Mistura da Casa, R$1,49</h2>
+    <h3>Uma mistura suave e delicada de café do México, Bolívia e Guatemala.</h3>
+    <h2>Café arábico com leite, R$2,35</h2>
+    <h3>Expresso, leite fervido e xarope de chocolate.</h3>
+    <h2>Cappucino, R$1,89</h2>
+    <h3>Uma mistura de expresso, leite fervido e espuma.</h3>
+    <h2>Chá Chai, R$1,85</h2>
+    <h3>Uma bebida condimentada com chá preto, especiarias, leite e mel.</h3>
+</body>
+</html>
+
+//
+
+Questão 02
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 02</title>
+    <style>
+        h2{
+            font-weight: 100;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mudanças de linha</h1>
+    <h2><p>"No mundo dos negócios todos são pagos com duas <br>
+        moedas: Dinheiro e Experiência... Agarre a experiência <br>
+        primeiro, o dinheiro virá depois." --Harold Geenen</p>
+    <p>"Há homens que lutam um dia e são bons.<br>
+    Há outros que lutam muitos dias e são melhores.<br>
+    Mas há os que lutam todos os dias e estes são<br>
+    imprescindíveis."</p>
+    <p> --Bertolt Brecht</p></h2>
+</body>
+</html>
