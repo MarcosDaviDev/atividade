@@ -91,3 +91,29 @@ Questão 03
     á à ã â ç é è õ</p></h2>
 </body>
 </html>
+
+//
+
+Questão 04
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questão 04</title>
+</head>
+<body>
+    <h1>FONTES:</h1>
+    <!--Utilizaremos o CSS In-line. As fontes escolhi aleatoriamente, pois na questão não mostra
+    quais são, mas que são diferentes, então fica ao seu critério. -->
+    <h2 style= "color: green; font-family: 'Times New Roman', Times, serif; font-size: 20px;"><p>"No mundo dos negócios todos são pagos com duas<br>
+        moedas: Dinheiro e Experiência... Agarre a experiência <br>
+        primeiro, o dinheiro virá depois." --Harold Geenen</p></h2>
+    <h2 style="color: red; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 30px"><p>"Há homens que lutam um dia e são bons.<br>
+    Há outros que lutam muitos dias e são melhores.<br>
+    <div style="color: blue;">Mas há os que lutam todos os dias e estes são
+    imprescindíveis."</p>
+    <p> --Bertolt Brecht</p></h2></div>
+</body>
+</html>
