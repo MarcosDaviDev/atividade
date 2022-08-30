@@ -117,3 +117,32 @@ Questão 04
     <p> --Bertolt Brecht</p></h2></div>
 </body>
 </html>
+
+//
+
+Questão 05
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questão 05</title>
+</head>
+<body>
+    <h1>Quebras</h1>
+    <h2>Este texto aparece antes da imagem, a qual vai ser alinha à esquerda.</h2>
+    <img src="ok.gif" align="left"> <h2>Esta frase está na minhas linha da imagem<BR>
+    pelo que fica à sua direita.</h2>
+    <pre>Este bocado de texto tem muitos espaços e mudanças de linha.
+        C               I
+          U              N 
+            R              T 
+              S              E 
+                O              R  
+                                 N 
+                   D                E  
+                     E                T
+    </pre>  
+</body>
+</html>
