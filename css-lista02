@@ -1,0 +1,23 @@
+CSS: 
+@charset "UTF-8";
+/* Optei por usar um CSS externo para que não tenha o trabalho de editar o mesmo estilo
+nas demais páginas. Fica minha recomendação.
+*/
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    text-align: center;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 100;
+}
+p{
+    text-align: center;
+}
